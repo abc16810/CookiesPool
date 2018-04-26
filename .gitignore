@@ -1,0 +1,9 @@
+/.idea
+*.pyc
+*.log
+ghostdriver.log
+geckodriver.log
+captcha.png
+__pycache__
+test.py
+*.rdb
